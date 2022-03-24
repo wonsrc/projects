@@ -1,7 +1,16 @@
-.profile{
-    color: red;
+
+h2 {
+    color: #d0d327;
 }
 
+.highlight {
+    border: solid;
+    border-color: blue;
+}
+#profile{
+    border: solid;
+    border-color: blue;
+}
 .thumbnail_grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
